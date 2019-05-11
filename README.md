@@ -17,11 +17,12 @@ ResNet-50 from https://arxiv.org/abs/1512.03385.
 
 # Accuracy
 * with Adam optimizer  
-91.3% after training in 400 epochs
+91.3% after training in 400 epochs.  
 ![image](https://user-images.githubusercontent.com/40084422/57193895-51782680-6f7b-11e9-83fc-edb86071f7e2.png)
 
 * with SGD + Momentum  
-Let me confirm it later.
+91.4% after training in 400 epochs.  
+![image](https://user-images.githubusercontent.com/40084422/57569816-be853380-7435-11e9-902d-08cc6fed0b42.png)
 
 # How to open it on Google Colaboratory
 Please take a look at [How-to-open-ipynb-on-Google-Colaboratory](https://github.com/shoji9x9/How-to-open-ipynb-on-Google-Colaboratory).
